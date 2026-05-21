@@ -1,0 +1,6 @@
+{
+  "name": "Sonic Wave Analyzer",
+  "description": "Advanced high-performance stereo audio waveform, waterfall spectrogram, and real-time FFT spectrum metering suite. Built for audio engineers and music producers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
